@@ -13,9 +13,9 @@ Replace a character
 
 Example 1:
 
-Input: word1 = "horse", word2 = "ros"
-Output: 3
-Explanation: 
+**Input**: word1 = "horse", word2 = "ros"
+**Output**: 3
+**Explanation**: 
 horse -> rorse (replace 'h' with 'r')
 rorse -> rose (remove 'r')
 rose -> ros (remove 'e')
@@ -32,6 +32,6 @@ A common subsequence of two strings is a subsequence that is common to both stri
 
 Example 1:
 
-Input: text1 = "abcde", text2 = "ace" 
-Output: 3  
-Explanation: The longest common subsequence is "ace" and its length is 3.
+**Input**: text1 = "abcde", text2 = "ace" 
+**Output**: 3  
+**Explanation**: The longest common subsequence is "ace" and its length is 3.
