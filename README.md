@@ -2,7 +2,7 @@
 
 ## Dynamic Programming
 
-### Edit-Distance Problem Description
+### Edit-Distance Problem Description - [Edit-Distance](https://github.com/Flamyng0/Algorithms/main/Edit-Distance.py)
 Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2.
 
 You have the following three operations permitted on a word:
@@ -20,7 +20,7 @@ horse -> rorse (replace 'h' with 'r')
 rorse -> rose (remove 'r')
 rose -> ros (remove 'e')
 
-### Longest-Common-Subsequence Problem Description - [LCS](https://github.com/Flamyng0/Algorithms/main/Longest-common-subsequence.py)
+### Longest-Common-Subsequence Problem Description - [LCS](https://github.com/Flamyng0/Algorithms/main/Longest-Common-Subsequence.py)
 Given two strings text1 and text2, return the length of their longest common subsequence. If there is no common subsequence, return 0.
 
 A subsequence of a string is a new string generated from the original string with some characters (can be none) deleted without changing the relative order of the remaining characters.
